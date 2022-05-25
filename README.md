@@ -2,6 +2,13 @@
 A curated list of awesome off-chain projects, resources, tools and more.
 ## Projects
 
+### General infra for building off-chain components
+- [Blockless](https://www.blockless.network)
+- [Fluence](https://fluence.network)
+- [Koii](https://koii.network)
+- [Akash](https://akash.network)
+- [Keep3r](https://keep3r.network)
+
 ### Oracle
 - [Chainlink](https://chain.link)
 - [Pyth](https://pyth.network)
@@ -30,7 +37,7 @@ A curated list of awesome off-chain projects, resources, tools and more.
 - [Block Watch](https://github.com/blockwatch-cc/tzindex)
 - [Algorand Indexer](https://developer.algorand.org/docs/get-details/indexer/)
 - [Project Galaxy](https://galaxy.eco)
-- []()
+- [SubQuery](https://subquery.network)
 - []()
 
 ### Data Marketplace
@@ -49,8 +56,10 @@ A curated list of awesome off-chain projects, resources, tools and more.
 - [Anyswap](https://anyswap.exchange/#/router)
 - [dYdx](https://dydx.community/dashboard)
 
-### Decentralized Messaging
+### Decentralized Communication
 - [Radicle](https://radicle.xyz)
+- [Axelar](https://axelar.network)
+- [Marlin](https://www.marlin.org)
 
 ### Decentralized Compute
 - [Flux](https://runonflux.io)
