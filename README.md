@@ -13,6 +13,7 @@
   </p>
   <p align="center">A curated list of awesome off-chain projects, resources, tools and more.</p>
 </div>
+
 ## Projects
 
 ### General infra for building off-chain components
