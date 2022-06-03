@@ -55,12 +55,6 @@
 ### Credit Protocol
 - [Masa Finance](https://masa.finance)
 
-### Layer-1
-- [Mina Protocol](https://minaprotocol.com/)
-- [VeChain](https://www.vechain.org/)
-- [Conflux Network](https://confluxnetwork.org/)
-
-
 ### Blockchain Gaming
 - [FUNToken](https://funtoken.io/)
 - [VIBE](https://www.vibehub.io/)
