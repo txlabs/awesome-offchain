@@ -89,7 +89,7 @@
 
 ### Layer-2
 - [Immutable X](https://www.immutable.com)
-- [Arbitrum] (https://arbitrum.io/)
+- [Arbitrum](https://arbitrum.io/)
 - [Loopring Protocol](https://loopring.org/#/)
 - [Polygon](https://polygon.technology/)
 - [Loom Network](https://loomx.io/)
