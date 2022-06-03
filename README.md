@@ -62,12 +62,13 @@
 - [Conflux Network](https://confluxnetwork.org/)
 - [Nervos Network](https://www.nervos.org/)
 
-
 ### Blockchain Gaming
 - [FUNToken](https://funtoken.io/)
 - [VIBE](https://www.vibehub.io/)
 - [HeroArena](https://heroarena.app/)
 
+### Crosschain Bridge
+- [Darwinia Network](https://darwinia.network/)
 
 ### Indexer
 - [The Graph](https://thegraph.com/en/)
