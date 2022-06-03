@@ -56,6 +56,11 @@
 ### Credit Protocol
 - [Masa Finance](https://masa.finance)
 
+### Layer-1
+- (Mina Protocol) [https://minaprotocol.com/]
+- (VeChain) [https://www.vechain.org/]
+- (Conflux Network) [https://confluxnetwork.org/]
+- (Nervos Network) [https://www.nervos.org/]
 
 ### Indexer
 - [The Graph](https://thegraph.com/en/)
