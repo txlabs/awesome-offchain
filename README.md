@@ -51,7 +51,7 @@
 - [SupraOracles](https://supraoracles.com/)
 
 ### Decentralized Music Streaming
--[Audius](https://audius.org/)
+- [Audius](https://audius.org/)
 
 ### Indexer
 - [The Graph](https://thegraph.com/en/)
