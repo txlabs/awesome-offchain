@@ -47,7 +47,6 @@
 - [Pyth Network](https://pyth.network/)
 - [Goracle](https://www.goracle.io/)
 - [XYO Network](https://xyo.network/)
-- [DOS Network](https://www.dos.network/)
 - [SupraOracles](https://supraoracles.com/)
 
 ### Decentralized Music Streaming
@@ -60,7 +59,7 @@
 - [Mina Protocol](https://minaprotocol.com/)
 - [VeChain](https://www.vechain.org/)
 - [Conflux Network](https://confluxnetwork.org/)
-- [Nervos Network](https://www.nervos.org/)
+
 
 ### Blockchain Gaming
 - [FUNToken](https://funtoken.io/)
@@ -104,7 +103,8 @@
 - [Loom Network](https://loomx.io/)
 - [Celer Network](https://www.celer.network/#)
 - [Ontology](https://ont.io/)
-- [Cartesi](https://cartesi.io/)
+- [Nervos Network](https://www.nervos.org/)
+- 
 
 ### Crosschain Lending
 - [Abracadabra](https://abracadabra.money)
