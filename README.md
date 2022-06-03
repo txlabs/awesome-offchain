@@ -53,6 +53,10 @@
 ### Decentralized Music Streaming
 - [Audius](https://audius.org/)
 
+### Credit Protocol
+- [Masa Finance](https://masa.finance)
+
+
 ### Indexer
 - [The Graph](https://thegraph.com/en/)
 - [Covalent Network](https://www.covalenthq.com)
