@@ -72,8 +72,6 @@
 - [Project Galaxy](https://galaxy.eco)
 - [SubQuery](https://subquery.network)
 - [PARSIQ](https://parsiq.net/)
-
-### Blockchain Automation:
 - [Graphlinq Protocol](https://graphlinq.io/)
 
 ### Data Marketplace
@@ -119,6 +117,7 @@
 
 ### Decentralized SupplyChain
 - [Centrifuge](https://centrifuge.io/)
+- [VeChain](https://www.vechain.org/)
 
 ### Decentralized Communication
 - [Radicle](https://radicle.xyz)
@@ -137,7 +136,7 @@
 
 ### Video Infrastructure
 - [Livepeer](https://livepeer.org/)
-- [Teta Network](https://www.thetatoken.org/)
+- [Theta Network](https://www.thetatoken.org/)
 
 ### Lending and Borrowing
 - [BENQI](https://benqi.fi/)
