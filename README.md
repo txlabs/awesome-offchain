@@ -43,12 +43,8 @@
 - [Razer Network](https://razor.network)
 - [Tellor](https://tellor.io)
 - [Gravity Protocol](https://gravity.tech)
-- (Aeternity) [https://aeternity.com/]
-- (Pyth Network) [https://pyth.network/]
-- (Goracle) [https://www.goracle.io/]
-- (XYO Network) [https://xyo.network/]
-- (DOS Network) [https://www.dos.network/]
-- (SupraOracles) [https://supraoracles.com/]
+- [Aeternity](https://aeternity.com/)
+
 
 ### Indexer
 - [The Graph](https://thegraph.com/en/)
