@@ -78,16 +78,33 @@
 - [Algorand Indexer](https://developer.algorand.org/docs/get-details/indexer/)
 - [Project Galaxy](https://galaxy.eco)
 - [SubQuery](https://subquery.network)
-- []()
+- [PARSIQ](https://parsiq.net/)
+
+### Blockchain Automation:
+- [Graphlinq Protocol](https://graphlinq.io/)
 
 ### Data Marketplace
 - [Ceramic Network](https://ceramic.network)
 - [Measurable Data Token](https://mdt.io)
 - [Streamr Network](https://streamr.network)
 - [Jasmy](https://www.jasmy.co.jp/en.html)
+- [IoTeX](https://iotex.io/)
+- [Keep Network](https://keep.network/)
+- [GXChain](https://en.gxchain.org/)
+- [Arweave](https://www.arweave.org/)
+- [Prometeus](https://prometeus.io/)
+- [Ocean Protocol](https://oceanprotocol.com/)
+
 
 ### Layer-2
 - [Immutable X](https://www.immutable.com)
+- [Arbitrum] (https://arbitrum.io/)
+- [Loopring Protocol](https://loopring.org/#/)
+- [Polygon](https://polygon.technology/)
+- [Loom Network](https://loomx.io/)
+- [Celer Network](https://www.celer.network/#)
+- [Ontology](https://ont.io/)
+- [Cartesi](https://cartesi.io/)
 
 ### Crosschain Lending
 - [Abracadabra](https://abracadabra.money)
@@ -96,22 +113,59 @@
 - [Anyswap](https://anyswap.exchange/#/router)
 - [dYdx](https://dydx.community/dashboard)
 
+### DeFi Swap
+- [SushiSwap](https://www.sushi.com/)
+
+### Atomic Swap
+- [Exchange Union](https://www.exchangeunion.com/)
+- [AirSwap](https://www.airswap.io/#/)
+
+### Decentralized Commerce
+- [Wyvern](https://wyvernprotocol.com/)
+
+### Decentralized SupplyChain
+- [Centrifuge](https://centrifuge.io/)
+
 ### Decentralized Communication
 - [Radicle](https://radicle.xyz)
 - [Axelar](https://axelar.network)
 - [Marlin](https://www.marlin.org)
+- [Hop Protocol](https://hopchain.org/index)
+
+### Decentralized payment system
+- [Request Network](https://request.network/en/)
+
+### DAO
+- [Gnosis](https://gnosis.io/)
+
+### Prediction Market
+- [Augur](https://www.augur.net/)
+
+### Video Infrastructure
+- [Livepeer](https://livepeer.org/)
+- [Teta Network](https://www.thetatoken.org/)
+
+### Lending and Borrowing
+- [BENQI](https://benqi.fi/)
 
 ### Decentralized Compute
 - [Flux](https://runonflux.io)
 - [Render](https://rendertoken.com)
-- 
+- [Phala Network](https://www.phala.network/)
+- [Siacoin](https://sia.tech/)
+- [Aelf](https://aelf.com/)
+
+### Decentralized Exchange
+- [Raiden Network](https://raiden.network/)
+- [Comit](https://comit.network/)
+- [0x](https://www.0x.org/)
 
 ### Relayer 
 - [Biconomy](https://www.biconomy.io)
 - [LayerZero](https://layerzero.network)
 
-
 ### Decentralized Derivatives
 - [BarnBridge](https://barnbridge.com/roadmap/)
 - [Struct Finance](https://www.struct.fi)
+- [Perpetual Protocol](https://perp.com/)
 
