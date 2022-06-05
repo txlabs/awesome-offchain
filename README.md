@@ -60,6 +60,7 @@
 - [VIBE](https://www.vibehub.io/)
 - [HeroArena](https://heroarena.app/)
 
+
 ### Crosschain Bridge
 - [Darwinia Network](https://darwinia.network/)
 
@@ -87,6 +88,7 @@
 - [Arweave](https://www.arweave.org/)
 - [Prometeus](https://prometeus.io/)
 - [Ocean Protocol](https://oceanprotocol.com/)
+- [Web3 Analytics](https://3analytics.io/)
 
 
 ### Layer-2
