@@ -73,6 +73,8 @@
 - [SubQuery](https://subquery.network)
 - [PARSIQ](https://parsiq.net/)
 - [Graphlinq Protocol](https://graphlinq.io/)
+- [Project Galaxy](https://galaxy.eco)
+- [Genki](https://genki.io)
 
 ### Data Marketplace
 - [Ceramic Network](https://ceramic.network)
