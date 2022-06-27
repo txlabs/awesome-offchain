@@ -22,6 +22,7 @@
 - [Koii](https://koii.network)
 - [Akash](https://akash.network)
 - [Keep3r](https://keep3r.network)
+- [AltLayer](https://altlayer.io/)
 
 ### Oracle
 - [Chainlink](https://chain.link)
