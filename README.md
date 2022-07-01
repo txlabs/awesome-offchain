@@ -50,8 +50,9 @@
 - [XYO Network](https://xyo.network/)
 - [SupraOracles](https://supraoracles.com/)
 - [Umbrella](https://staking.umb.network/)
-
-
+- [Razor](https://razor.network/)
+- [Morphie](https://morphie.network/)
+- [DClimate](https://www.dclimate.net/)
 
 
 ### Decentralized Music Streaming
@@ -69,6 +70,16 @@
 ### Crosschain Bridge
 - [Darwinia Network](https://darwinia.network/)
 
+### Security Protocol
+- [Integritee](https://integritee.network/)
+
+### Privacy Protocol
+- [Evanesco](https://evanesco.org/)
+
+### Cloud
+- [Cere Network](https://cere.network/)
+- [Render Token](https://rendertoken.com/)
+
 ### Indexer
 - [The Graph](https://thegraph.com/en/)
 - [Covalent Network](https://www.covalenthq.com)
@@ -81,6 +92,11 @@
 - [Graphlinq Protocol](https://graphlinq.io/)
 - [Project Galaxy](https://galaxy.eco)
 - [Genki](https://genki.io)
+- [Unmarshal](https://unmarshal.io/)
+- [Blockvision](https://blockvision.org/)
+
+### Ancillary Infrastructure Protocols
+- [Ethsign](https://www.ethsign.xyz/)
 
 ### Data Marketplace
 - [Ceramic Network](https://ceramic.network)
@@ -95,6 +111,8 @@
 - [Ocean Protocol](https://oceanprotocol.com/)
 - [Web3 Analytics](https://3analytics.io/)
 
+### Layer-1
+- [Reef](https://reef.io/)
 
 ### Layer-2
 - [Immutable X](https://www.immutable.com)
@@ -161,6 +179,24 @@
 - [Raiden Network](https://raiden.network/)
 - [Comit](https://comit.network/)
 - [0x](https://www.0x.org/)
+- [Polkadex](https://www.polkadex.trade/)
+- [Lever](https://lever.network/)
+- [Spherium](https://spherium.finance/#/)
+- [Oddz.finance](https://www.oddz.fi/)
+- [Makiswap](https://makiswap.com/)
+- [XEND](https://xend.finance/)
+
+### Decentralized Aggregator
+- [Litentry](https://litentry.com/)
+
+### Decentralized Insurance
+- [Tidal](https://tidal.finance/)
+- [InsureDAO](https://www.insuredao.fi)
+
+### Decentralized Staking / Farming
+- [Unifarm](https://unifarm.co/)
+- [BlockSwap](https://www.blockswap.network/)
+
 
 ### Relayer 
 - [Biconomy](https://www.biconomy.io)
@@ -170,4 +206,10 @@
 - [BarnBridge](https://barnbridge.com/roadmap/)
 - [Struct Finance](https://www.struct.fi)
 - [Perpetual Protocol](https://perp.com/)
+- [Ribbon Finance](https://www.ribbon.finance/)
+- [Zeta Markets](https://www.zeta.markets/)
+- [Structure.finance](https://structure.finance/)
+- [dHedge](https://www.dhedge.org/)
+- [Dexlab](https://www.dexlab.space/)
+
 
