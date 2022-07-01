@@ -49,6 +49,10 @@
 - [Goracle](https://www.goracle.io/)
 - [XYO Network](https://xyo.network/)
 - [SupraOracles](https://supraoracles.com/)
+- [Umbrella](https://staking.umb.network/)
+
+
+
 
 ### Decentralized Music Streaming
 - [Audius](https://audius.org/)
