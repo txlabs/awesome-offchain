@@ -23,6 +23,11 @@
 - [Akash](https://akash.network)
 - [Keep3r](https://keep3r.network)
 - [AltLayer](https://altlayer.io/)
+- [Nillion](https://nillion.com/)
+- [4everland](https://www.4everland.org/)
+- [Phala](https://www.phala.network/)
+- [Axelar](https://axelar.network/)
+
 
 ### Oracle
 - [Chainlink](https://chain.link)
