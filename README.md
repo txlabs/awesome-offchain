@@ -26,7 +26,6 @@
 - [Nillion](https://nillion.com/)
 - [4everland](https://www.4everland.org/)
 - [Phala](https://www.phala.network/)
-- [Axelar](https://axelar.network/)
 
 
 ### Oracle
